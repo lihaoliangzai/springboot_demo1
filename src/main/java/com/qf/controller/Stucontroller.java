@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
+/**
+ * 我也是最亮的仔
+ */
 @Controller
 @RequestMapping("/stu")
 public class Stucontroller {
